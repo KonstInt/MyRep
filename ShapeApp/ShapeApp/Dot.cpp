@@ -7,7 +7,9 @@ Dot::Dot(int x1, int y1) : x(x1), y(y1) {}
 Dot::Dot(Dot& n) 
 {
 	x = n.x;
-	y = n.y; 
+	y = 1; 
+
+	//weirtuwoetuiowet2e2
 } 
 
 
