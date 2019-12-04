@@ -20,7 +20,9 @@ public:
 		double b = xy1.L(xy3);
 		double c = xy2.L(xy3);
 
-		
+		//cout << a << endl;
+		//cout << b << endl;
+		//cout << c << endl;
 		return make_tuple(a, b, c);
 
 	}

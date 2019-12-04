@@ -1,0 +1,8 @@
+﻿  ShapeApp.cpp
+C:\Users\Student PCE\Documents\Repos\ShapeApp\ShapeApp\ShapeApp.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода
+  1 of 23 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ShapeApp.vcxproj -> C:\Users\Student PCE\Documents\Repos\ShapeApp\Release\ShapeApp.exe
